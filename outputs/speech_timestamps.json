@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.962,
+    "end": 2.078,
+    "duration": 1.116,
+    "confidence": 0.9865
+  },
+  {
+    "start": 3.362,
+    "end": 4.574,
+    "duration": 1.212,
+    "confidence": 0.9263
+  },
+  {
+    "start": 5.378,
+    "end": 6.558,
+    "duration": 1.18,
+    "confidence": 0.9814
+  },
+  {
+    "start": 7.81,
+    "end": 8.83,
+    "duration": 1.02,
+    "confidence": 0.9972
+  },
+  {
+    "start": 9.858,
+    "end": 10.942,
+    "duration": 1.084,
+    "confidence": 0.9676
+  },
+  {
+    "start": 12.162,
+    "end": 13.374,
+    "duration": 1.212,
+    "confidence": 0.9587
+  },
+  {
+    "start": 14.178,
+    "end": 15.23,
+    "duration": 1.052,
+    "confidence": 0.9987
+  },
+  {
+    "start": 16.706,
+    "end": 17.758,
+    "duration": 1.052,
+    "confidence": 0.9679
+  },
+  {
+    "start": 18.594,
+    "end": 19.902,
+    "duration": 1.308,
+    "confidence": 0.9501
+  }
+]
